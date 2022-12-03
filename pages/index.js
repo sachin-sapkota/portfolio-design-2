@@ -1,4 +1,4 @@
-import Head from "next/head";
+import Head from 'next/head';
 
 const Portfolio = () => {
   return (
@@ -348,7 +348,7 @@ const Portfolio = () => {
                 <span>{` `}</span>
               </span>
               <span>
-                <span className="font-semibold">Srinivas Dezign</span>
+                <span className="font-semibold">Sachin</span>
               </span>
             </div>
           </div>
